@@ -29,7 +29,8 @@
 
 ## 📊 Coding Stats:
 ### CodeChef Rating Graph
-![CodeChef Rating](https://codechef-rating-api.vercel.app/sachin_014?theme=dark)
+![CodeChef Rating](https://cp-logo.vercel.app/codechef/sachin_014)
+
 
 ### LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sachin_014?theme=dark&ext=contest)
