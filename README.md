@@ -27,6 +27,13 @@
 ### 🛠 Other
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 Coding Stats:
+### CodeChef Rating Graph
+![CodeChef Rating](https://codechef-rating-api.vercel.app/sachin_014?theme=dark)
+
+### LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sachin_014?theme=dark&ext=contest)
+
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachingarewal)  
 
