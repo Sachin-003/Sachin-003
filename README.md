@@ -1,11 +1,9 @@
 # Hi there! 👋 I'm Sachin
-
+<img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Anime Coding GIF">
 🚀 **Flutter & MERN Developer | Robotics Enthusiast**  
 💻 Crafting seamless cross-platform apps & full-stack web solutions  
 🤖 Exploring robotics  
 ☕ Debugging life one coffee at a time  
-
-<img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Anime Coding GIF">
 
 ## 🔧 Technologies & Tools:
 ### 📱 Mobile
