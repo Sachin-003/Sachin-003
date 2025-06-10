@@ -4,7 +4,7 @@
 💻 Crafting seamless cross-platform apps & full-stack web solutions  
 🤖 Exploring robotics  
 ☕ Debugging life one coffee at a time  
-<img align="right" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Anime Coding GIF">
+<img align="right" width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl4YnBtZjg3Y3l3ZzU0aHZic2JxbGQ2azZnODJsMncyaGcxZ3E2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Anime Coding GIF">
 
 ## 🔧 Technologies & Tools:
 ### 📱 Mobile
